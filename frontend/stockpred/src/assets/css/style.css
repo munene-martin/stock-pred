@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(24, 24, 35);
+}
+.bg-light-dark{
+    background-color: rgb(37, 37, 56);
+}
+.nav {
+  margin-bottom: 2rem;
+}
+.container{
+    flex: 1;
+}
